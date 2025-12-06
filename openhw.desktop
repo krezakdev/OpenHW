@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=OpenHW
+Exec=/home/kaiden/Downloads/OpenHW-main/dist/linux-unpacked/OpenHW-desktop
+Icon=/home/kaiden/Downloads/OpenHW-main/icon.png
+Type=Application
+Terminal=false
+Categories=Game;

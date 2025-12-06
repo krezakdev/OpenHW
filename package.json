@@ -1,0 +1,15 @@
+{
+    "name": "OpenHW",
+    "version": "1.0.0",
+    "description": "Happy Wheels Electron wrapper",
+    "main": "electron-main.js",
+    "scripts": {
+        "electron": "electron .",
+        "start": "electron ."
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "electron": "^31.0.0"
+    }
+}
